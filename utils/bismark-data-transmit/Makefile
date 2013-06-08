@@ -12,7 +12,7 @@ PKG_RELEASE:=12
 PKG_VERSION:=HEAD
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
-PKG_SOURCE_URL:=git://github.com/projectbismark/bismark-data-transmit.git
+PKG_SOURCE_URL:=git://github.com/marjanfr/bismark-data-transmit.git
 PKG_SOURCE_VERSION:=$(PKG_VERSION)
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
 PKG_SOURCE_PROTO:=git
